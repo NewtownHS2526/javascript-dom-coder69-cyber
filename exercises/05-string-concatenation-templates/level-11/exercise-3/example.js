@@ -1,10 +1,6 @@
 // Example Solution - Level 11
 // This demonstrates the concept with additional complexity
 
-let name = "Bob";
-let age = 25;
-let info = name + " is " + age + " years old";
-console.log(info);
 
 // Try variations:
 // - Change the values
